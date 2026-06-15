@@ -1,0 +1,6 @@
+{
+  "name": "Empathetic Mood Assistant",
+  "description": "Share how you are feeling and get intelligent, warm insights along with personalized daily self-care suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
