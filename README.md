@@ -27,4 +27,4 @@ If you want to spin this up on your own machine, it's pretty straightforward:
    Then just open your browser to `http://localhost:3000` and you're good to go!
 
 ---
-*Built with ❤️ (and good vibes).*
+
